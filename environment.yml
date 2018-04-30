@@ -1,9 +1,9 @@
 name: tensorflow
 dependencies:
-	- numpy
-	- pandas
-	- tensorflow
-	- keras
-	- matplotlib
-	- sklearn
+    - numpy
+    - pandas
+    - tensorflow
+    - keras
+    - matplotlib
+    - sklearn
 
